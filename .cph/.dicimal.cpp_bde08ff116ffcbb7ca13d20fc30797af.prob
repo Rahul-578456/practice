@@ -1,0 +1,1 @@
+{"name":"Local: dicimal","url":"f:\\practice\\dicimal.cpp","tests":[{"id":1691827746415,"input":"101010100","output":""},{"id":1691829971287,"input":"1011011","output":""},{"id":1691831482927,"input":"1001","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\practice\\dicimal.cpp","group":"local","local":true}
